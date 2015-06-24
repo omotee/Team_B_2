@@ -1,0 +1,5 @@
+Recap:
+
+- Tayo saw how he can send email using Selenium WebDriver
+- How to biuld and config framework to execute cross browser testing
+- How to make use of .properties to manage cross browser testing, test data, locators
