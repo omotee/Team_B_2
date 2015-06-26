@@ -1,0 +1,18 @@
+24/06/2015 21:17:58 [TayoLog4J][  INFO]:- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+24/06/2015 21:17:58 [TayoLog4J][  INFO]:- The setUp method started successfully
+24/06/2015 21:17:58 [TayoLog4J][  INFO]:- Implicit wait of 10 secs started
+24/06/2015 21:17:58 [TayoLog4J][  INFO]:- Browser has been maximized
+24/06/2015 21:17:58 [TayoLog4J][  INFO]:- The Web Address has been loaded successfully
+24/06/2015 21:17:59 [TayoLog4J][  INFO]:- visitHomePage method started
+24/06/2015 21:18:04 [TayoLog4J][  INFO]:- visitHomePage method executed successfully
+24/06/2015 21:18:04 [TayoLog4J][  INFO]:- The loginWith method started successfully
+24/06/2015 21:18:16 [TayoLog4J][ ERROR]:- The loginWith method encountered error
+24/06/2015 21:18:18 [TayoLog4J][  INFO]:- The browser has now closed successfully
+24/06/2015 21:18:18 [TayoLog4J][  INFO]:- ****************************************
+24/06/2015 21:18:20 [TayoLog4J][  INFO]:- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+24/06/2015 21:18:20 [TayoLog4J][  INFO]:- The setUp method started successfully
+24/06/2015 21:18:20 [TayoLog4J][  INFO]:- Implicit wait of 10 secs started
+24/06/2015 21:18:21 [TayoLog4J][  INFO]:- Browser has been maximized
+24/06/2015 21:18:21 [TayoLog4J][  INFO]:- The Web Address has been loaded successfully
+24/06/2015 21:18:22 [TayoLog4J][  INFO]:- The browser has now closed successfully
+24/06/2015 21:18:22 [TayoLog4J][  INFO]:- ****************************************
