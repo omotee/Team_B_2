@@ -23,7 +23,7 @@ public class LoginTest {
 	@Before
 	public void setup(){
 //		WebDriver driver =  new FirefoxDriver();
-		System.setProperty("webdriver.chrome.driver", "C:\\InstalledSoftwares\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Softwares\\drivers\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		this.basePage = new BasePage(driver);
 		this.homePage = new HomePage(driver);
